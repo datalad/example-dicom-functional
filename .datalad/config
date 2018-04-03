@@ -1,0 +1,4 @@
+[datalad "dataset"]
+	id = e1b670f4-373b-11e8-9540-f0d5bf7b5561
+[datalad "metadata"]
+	nativetype = dicom
